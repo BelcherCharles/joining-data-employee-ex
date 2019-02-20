@@ -1,0 +1,62 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Joe Blow",
+            "departmentId": 3,
+            "computerId": 3
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "name": "Stan the Man",
+            "departmentId": 1,
+            "computerId": 4
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Administration"
+        },
+        {
+            "id": 2,
+            "name": "Accounting/Finance"
+        },
+        {
+            "id": 3,
+            "name": "Production"
+        },
+        {
+            "id": 4,
+            "name": "Maintenance"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "brand": "Asus",
+            "model": "K53"
+        },
+        {
+            "id": 2,
+            "brand": "Mac",
+            "model": "PowerBook"
+        },
+        {
+            "id": 3,
+            "brand": "Dell",
+            "model": "Latitude 5590"
+        },
+        {
+            "id": 4,
+            "brand": "ROO",
+            "model": "Custom Build"
+        }
+    ]
+}
